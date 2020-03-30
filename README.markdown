@@ -1,5 +1,6 @@
 # FCC: D3 Bar Chart
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/nicolasmgaray/full/rNVPvBN](https://codepen.io/nicolasmgaray/full/rNVPvBN).
+ 
+ A Pen created at CodePen.io. Original URL: [https://codepen.io/nicolasmgaray/full/rNVPvBN](https://codepen.io/nicolasmgaray/full/rNVPvBN).
  
  Part of the Data Visualization Certification - Project N°1 D3 Bar Chart
 
