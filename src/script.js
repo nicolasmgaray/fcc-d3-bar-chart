@@ -23,9 +23,11 @@ var svgContainer =  d3.select('.visHolder')
 d3.json('https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/GDP-data.json', function(err, data) {
   
   svgContainer.append('text')
+   .attr('fill', 'white')
     .attr('transform', 'rotate(-90)')
     .attr('x', -200)
     .attr('y', 80)
+ 
     .text('Gross Domestic Product');
   
   svgContainer.append('text')
